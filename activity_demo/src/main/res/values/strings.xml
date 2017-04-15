@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ActivityDemo</string>
+    <string name="open_other_btn">打开其他Activity</string>
+    <string name="open_dialog_btn">打开对话框Activity</string>
+
+    <string name="close_activity">关闭Activity</string>
+    <string name="close_dialog_activity">关闭对话框Activity</string>
+
+    <string name="other_activity">这里是其他Activity</string>
+
+    <string name="dialog_activity">这里是对话框Activity</string>
+</resources>

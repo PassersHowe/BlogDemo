@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ServiceDemo</string>
+
+    <string name="notification_text">这是一个通知</string>
+
+    <string name="close_activity">关闭Activity</string>
+
+    <string name="demo_activity">这里是DemoActivity</string>
+    <string name="open_started_service">打开启动服务,继承Service</string>
+    <string name="open_started_intent_service">打开启动服务,继承IntentService</string>
+
+    <string name="open_bound_service">打开绑定服务</string>
+</resources>

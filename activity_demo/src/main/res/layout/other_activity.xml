@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/other_activity"
+
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteY="161dp"
+        tools:layout_editor_absoluteX="134dp"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/other_finish_btn"
+        android:layout_alignStart="@+id/other_finish_btn"
+        android:layout_marginTop="157dp"/>
+
+    <Button
+        android:id="@+id/other_finish_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="@string/close_activity"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteY="231dp"
+        tools:layout_editor_absoluteX="135dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"/>
+</RelativeLayout>

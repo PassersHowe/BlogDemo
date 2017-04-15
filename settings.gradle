@@ -1,0 +1,1 @@
+include ':activity_demo', ':service_demo', ':broadcast_demo'
