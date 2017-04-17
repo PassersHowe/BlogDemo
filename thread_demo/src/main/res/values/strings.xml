@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ThreadDemo</string>
+
+
+    <string name="error_down_image">下载图片(错误演示)</string>
+    <string name="down_image">下载图片</string>
+    <string name="async_down_image">异步下载图片</string>
+    <string name="image">默认图片</string>
+
+</resources>

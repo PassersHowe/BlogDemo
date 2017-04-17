@@ -1,1 +1,1 @@
-include ':activity_demo', ':service_demo', ':broadcast_demo'
+include ':activity_demo', ':service_demo', ':broadcast_demo', ':thread_demo'
