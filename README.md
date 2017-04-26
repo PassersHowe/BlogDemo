@@ -10,6 +10,7 @@
 - [浅谈 Android Service](http://www.passershowe.com/2017/04/11/Android-Service/)
 - [了解 Android 的进程和线程](http://www.passershowe.com/2017/04/16/Android-Thread/)
 - [了解 Android ANR](http://www.passershowe.com/2017/04/19/Android-ANR/)
+- [谈谈 Android MVP 架构](http://www.passershowe.com/2017/04/24/Android-MVP/)
 
 ### License
 -------
