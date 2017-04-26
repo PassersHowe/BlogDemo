@@ -6,7 +6,7 @@ import android.util.Log;
 import java.net.URL;
 
 /**
- * Created by hao809395357 on 2017/4/19.
+ * Created by PassersHowe on 2017/4/19.
  */
 
 public class DownloadAsyncTask extends AsyncTask<URL,Integer,Long> {

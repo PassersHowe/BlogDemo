@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVPDemo</string>
+    <string name="no_data">暂无数据</string>
+    <string name="show_books_btn">查看书籍</string>
+</resources>

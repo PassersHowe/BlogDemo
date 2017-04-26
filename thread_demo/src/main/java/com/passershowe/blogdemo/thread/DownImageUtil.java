@@ -9,7 +9,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 /**
- * Created by hao809395357 on 2017/4/17.
+ * Created by PassersHowe on 2017/4/17.
  */
 
 public class DownImageUtil {

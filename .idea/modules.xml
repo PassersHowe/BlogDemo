@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/activity_demo/activity_demo.iml" filepath="$PROJECT_DIR$/activity_demo/activity_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/anr_demo/anr_demo.iml" filepath="$PROJECT_DIR$/anr_demo/anr_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/broadcast_demo/broadcast_demo.iml" filepath="$PROJECT_DIR$/broadcast_demo/broadcast_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvp_demo/mvp_demo.iml" filepath="$PROJECT_DIR$/mvp_demo/mvp_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/service_demo/service_demo.iml" filepath="$PROJECT_DIR$/service_demo/service_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread_demo/thread_demo.iml" filepath="$PROJECT_DIR$/thread_demo/thread_demo.iml" />
     </modules>

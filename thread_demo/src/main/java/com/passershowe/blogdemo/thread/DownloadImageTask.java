@@ -5,7 +5,7 @@ import android.os.AsyncTask;
 import android.widget.ImageView;
 
 /**
- * Created by hao809395357 on 2017/4/17.
+ * Created by PassersHowe on 2017/4/17.
  */
 
 public class DownloadImageTask extends AsyncTask<String, Void, Bitmap> {

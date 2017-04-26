@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+   >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/item_book_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:textSize="20sp"/>
+
+        <TextView
+            android:id="@+id/item_book_author"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/item_book_name"
+            android:layout_marginLeft="5dp"
+           />
+
+        <TextView
+            android:id="@+id/item_book_tag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/item_book_name"
+            android:layout_marginLeft="20dp"
+            android:textColor="@color/book_white"
+            android:layout_toRightOf="@id/item_book_author"
+            android:background="@drawable/book_tag_item_bg"
+            />
+
+
+    </RelativeLayout>
+</android.support.v7.widget.CardView>
